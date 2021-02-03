@@ -1,0 +1,30 @@
+{% extends 'main/base.html' %}
+
+{% block title %} My Invites {% endblock title %}
+
+{% block content %}
+
+	{% if is_empty %}
+		<h1> No profiles to interact </h1>
+	{% endif %}
+	{% for object in qs %}
+		<div class="ui segment">
+			<div class="ui grid">
+				<div class="row">
+					<div class="two wide column">
+						<img src="{{object.avatar.url}}" class="ui small circular image">
+					</div>
+					<div class="thirteen wide column">
+						<h3>{{object.user}}</h3>
+						<p> {{object.bio}}</p>
+						<a href="{{object.get_absolute_url}}"><button class="ui primary button mb-5 w-big">See Profile</button></a>
+						<br>
+						{% include 'profiles/friends-button.html' %}
+					</div>
+				</div>
+			</div>
+		</div>
+
+	{% endfor %}
+
+{% endblock content %}

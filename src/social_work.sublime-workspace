@@ -1,0 +1,1062 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"profile_pk"
+			],
+			[
+				"det",
+				"detail-likes-given"
+			],
+			[
+				"inva",
+				"send_invatation"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"get",
+				"get_all_authors_posts()\tfunction ⟠"
+			],
+			[
+				"rela",
+				"relat_receiver\tlist ⟠"
+			],
+			[
+				"re",
+				"reject_invatation(…)\tfunction ⟠"
+			],
+			[
+				"m",
+				"my-invites"
+			],
+			[
+				"pre",
+				"pre_delete\tModelSignal ⟠"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"list",
+				"list_relation_sender\tlist ⟠"
+			],
+			[
+				"list_rel",
+				"list_relation_sender\tlist ⟠"
+			],
+			[
+				"list_re",
+				"list_relation_sender\tlist ⟠"
+			],
+			[
+				"Rela",
+				"Relationship\ttype ⟠"
+			],
+			[
+				"ex",
+				"exclude(…)\tfunction ⟠"
+			],
+			[
+				"Pro",
+				"Profile\ttype ⟠"
+			],
+			[
+				"Re",
+				"Relationship\ttype ⟠"
+			],
+			[
+				"Post",
+				"PostModelForm\ttype ⟠"
+			],
+			[
+				"main",
+				"main-post-view"
+			],
+			[
+				"reve",
+				"reverse_lazy(…)\tfunction ⟠"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"wid",
+				"widows\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"c",
+				"c_form\tCommentModelForm ⟠"
+			],
+			[
+				"Co",
+				"CommentModelForm\ttype ⟠"
+			],
+			[
+				"te",
+				"TextInput\ttype ⟠"
+			],
+			[
+				"Ps",
+				"PostModelForms\t⟠"
+			],
+			[
+				"Pos",
+				"PostModelForm\ttype ⟠"
+			],
+			[
+				"post_",
+				"post_obj\ttype ⟠"
+			],
+			[
+				"post",
+				"post_id\t⟠"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"M",
+				"Model\ttype ⟠"
+			],
+			[
+				"aut",
+				"auto_now_add=…\tkeyword ⟠"
+			],
+			[
+				"total",
+				"total_assistidos"
+			],
+			[
+				"ass",
+				"assistidos"
+			],
+			[
+				"Per",
+				"PerfilModelForm\ttype ⟠"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"user",
+				"username=str\tkeyword ⟠"
+			],
+			[
+				"assis",
+				"assistidos"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"e",
+				"exclude(…)\tfunction ⟠"
+			],
+			[
+				"tot",
+				"total_favoritos_usuario"
+			],
+			[
+				"total_",
+				"total_favoritos_usuario\tint ⟠"
+			],
+			[
+				"de",
+				"default=…\tkeyword ⟠"
+			],
+			[
+				"assi",
+				"assistido_por"
+			],
+			[
+				"assistido",
+				"assistido_por"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"man",
+				"ManyToManyField\ttype ⟠"
+			],
+			[
+				"uu",
+				"uuid\tmodule ⟠"
+			],
+			[
+				"se",
+				"sobrenome"
+			],
+			[
+				"s",
+				"sobrenome\tCharField ⟠"
+			],
+			[
+				"djan",
+				"django\tmodule ⟠"
+			],
+			[
+				"Date",
+				"DateTimeField\ttype ⟠"
+			],
+			[
+				"MA",
+				"ManyToManyField\ttype ⟠"
+			],
+			[
+				"Man",
+				"ManyToManyField\ttype ⟠"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"prod",
+				"product_list_view"
+			],
+			[
+				"produ",
+				"product_detail_view\t⟠"
+			],
+			[
+				"De",
+				"DecimalField\ttype ⟠"
+			],
+			[
+				"frm",
+				"formulario\tRawProductForm ⟠"
+			],
+			[
+				"conte",
+				"context\tdict ⟠"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"contac",
+				"contact_view"
+			],
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"base",
+				"BASE_DIR\tstr ⟠"
+			],
+			[
+				"med",
+				"mediaInternet"
+			],
+			[
+				"quar",
+				"quartoLu"
+			],
+			[
+				"qua",
+				"quartoEDRI"
+			],
+			[
+				"medi",
+				"mediaCondominio"
+			],
+			[
+				"resto",
+				"restoMedia"
+			],
+			[
+				"quart",
+				"quartoEDRI"
+			],
+			[
+				"media",
+				"mediaLuz"
+			],
+			[
+				"v",
+				"vInternet"
+			],
+			[
+				"rest",
+				"restoMedia"
+			],
+			[
+				"q",
+				"quartoLoris"
+			],
+			[
+				"alu",
+				"aluguelEd"
+			],
+			[
+				"alug",
+				"aluguelDri"
+			],
+			[
+				"est",
+				"estCLoop"
+			],
+			[
+				"preco",
+				"precoDesconto"
+			],
+			[
+				"valor",
+				"valorDesconto"
+			],
+			[
+				"quant",
+				"quantidadeCarne"
+			],
+			[
+				"tipo",
+				"tipoCarne"
+			],
+			[
+				"kg",
+				"kgMorango"
+			],
+			[
+				"kgM",
+				"kgMaca"
+			],
+			[
+				"com",
+				"combustivel"
+			],
+			[
+				"as",
+				"Assassino"
+			],
+			[
+				"a",
+				"acompanhado"
+			],
+			[
+				"notas",
+				"notas10"
+			],
+			[
+				"not",
+				"notas50"
+			],
+			[
+				"dezenas",
+				"dezenas"
+			],
+			[
+				"entrada",
+				"entradaB"
+			],
+			[
+				"entra",
+				"entradaA"
+			],
+			[
+				"entr",
+				"entradaC"
+			],
+			[
+				"sala",
+				"salarioLiquido"
+			],
+			[
+				"desc",
+				"descontoIR"
+			],
+			[
+				"des",
+				"descontoIR"
+			],
+			[
+				"salario",
+				"salarioBruto"
+			],
+			[
+				"AUM",
+				"aumento"
+			],
+			[
+				"noov",
+				"novoSalario"
+			],
+			[
+				"novo",
+				"novoSalario"
+			],
+			[
+				"n",
+				"n1"
+			],
+			[
+				"litros",
+				"litrosBarril"
+			],
+			[
+				"S",
+				"SIND"
+			],
+			[
+				"sind",
+				"SIND"
+			],
+			[
+				"horas",
+				"horasMes"
+			],
+			[
+				"peso",
+				"pesoPeixes"
+			],
+			[
+				"H",
+				"H"
+			],
+			[
+				"C",
+				"Celsius"
+			],
+			[
+				"F",
+				"Farenheit"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"A",
+				"ACCESS_SECRET"
+			],
+			[
+				"CON",
+				"CONSUMER_SECRET"
+			],
+			[
+				"CONSU",
+				"CONSUMER_KEY"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text-st",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"box-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"fo",
+				"font-variant\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"dat",
+				"datalist\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "profiles/views.py",
+			"settings":
+			{
+				"buffer_size": 6415,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "posts/models.py",
+			"settings":
+			{
+				"buffer_size": 1592,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "profiles/templates/profiles/detail-likes-given.html",
+			"settings":
+			{
+				"buffer_size": 284,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "profiles/templates/profiles/profile-sidebar.html",
+			"settings":
+			{
+				"buffer_size": 731,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "profiles/templates/profiles/profiles-list.html",
+			"settings":
+			{
+				"buffer_size": 746,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "posts/templates/posts/main.html",
+			"settings":
+			{
+				"buffer_size": 4717,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/templates",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/templates/posts",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/static_project",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/templates",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/templates/main"
+	],
+	"file_history":
+	[
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/detail.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/detai",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/friends-button.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/profiles-list.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/my-invites.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/templates/main/base.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/static_project/style3.css",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/signals.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/static_project/style2.css",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/to-invite-list.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/templates/posts/main.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/templates/posts/update.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/templates/posts/confirm-delete.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/forms.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/static_project/style.css",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/static_project/main.js",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/admin.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/__init__.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/posts/apps.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/main_profile.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/signals.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/templates/perfis/meu-perfil_novo.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/templates/base.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/static_project/modal.js",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/forms.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/templates/perfis/meu-perfil_novo2.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/templates/perfis/meu-perfil.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/templates/perfis/style.css",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animow/settings.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animow/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/templates/modal.js",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/media/media/main.js",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/templates/perfis/main.js",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/forms.oy",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/sproject_animow.sublime-project",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/apps.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/templates/animes/animes_detail.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/templates/animes/list-inline.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/signals.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/templates/navbar.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/__init__.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/migrations/__init__.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/apps.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/migrations/0014_anime_assistido_por.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/apps.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/admin.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/utils.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/perfis/__init__.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/templates/sidebar.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animow/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/templates/animes/list.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/templates/cadastro/login.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/forms.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/paginas/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/templates/cadastro/cadastro.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/testeDjango/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_delete.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_list.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_detail.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_create.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/pages/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/navbar.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/base.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_delete",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/forms.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/product/detail.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/Lib/site-packages/pip/_internal/network/session.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/product/detail",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/pages/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/footer.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/about.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/home.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/feed.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/contact.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/profile.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/testeDjango/settings.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/admin.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/db.sqlite3",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/sublimeTestDjango.sublime-project",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/descrever a foto.txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/memorial descritivo - aperto.txt",
+		"/C/Users/loris/Desktop/Novo Documento de Texto (2).txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/Memorial Descritivo 02 - cigarro.txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/descrição.txt",
+		"/C/Users/loris/Downloads/Happiest.Season.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt",
+		"/C/Users/loris/Desktop/Novo Documento de Texto.txt",
+		"/C/Users/loris/Desktop/Programação/Udemy/Data Science/dados.py",
+		"/C/Users/loris/Desktop/Programação/Udemy/Data Science/grafico_linha.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/distribuiçãoNormalR.R",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/amostraIrisEstratificada.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/amostraSistemática.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/scritpsEstastisticaI/Estatistica I - Python/normal.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/scritpsEstastisticaI/Estatistica I - R/6.5.Distribuição Normal Aula R.R",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/distribuiçãoNormal.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Escrita de Roteiro/O MAR.txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/descrição Geni e o Zeppelin.txt",
+		"/C/Users/loris/Desktop/1000Corks/sitemap-1.xml/sitemap-1.xml",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/Memorial Descritivo - Internos conflitantes 01.txt",
+		"/C/Users/loris/Desktop/1000Corks/sitemap-1.xml/sitemap-1(1).xml",
+		"/C/Users/loris/Desktop/Programação/Udemy/Data Science/populacao-brasileira.csv",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/LISTA DE COMANDOS EM PYTHON.txt",
+		"/C/Users/loris/Desktop/Carta.txt",
+		"/C/Users/loris/Desktop/1000Corks/sitemapasdsadsdadas-1.xml",
+		"/C/Users/loris/Desktop/Programação/Python/4 - Listas/users.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/Raquel2 - Lorena.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/raquel - Lorena.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/texto pra Raquel.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/carta raquel.txt",
+		"/C/Users/loris/Desktop/carta raquel.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/texto Edna.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".')",
+			"}\n",
+			")\n",
+			"view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "profiles/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6165,
+								6165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2536.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "posts/models.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1242,
+								1238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "profiles/templates/profiles/detail-likes-given.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "profiles/templates/profiles/profile-sidebar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "profiles/templates/profiles/profiles-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "posts/templates/posts/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2039,
+								2039
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "social_work.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 447.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

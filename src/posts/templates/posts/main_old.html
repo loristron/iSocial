@@ -1,0 +1,65 @@
+{% extends 'main/base.html' %}
+
+
+{% block title %} {{page_title}} {% endblock title %}
+
+{% block content %}
+
+
+
+
+<div class="ui grid"> 
+	<div class="row">
+		<div class="ten wide column">
+			{% for obj in qs %}
+				<div class="ui fluid card">
+					<div class="content">
+						{{obj.content}}
+					</div>
+					<div class="content">
+						<form action="{% url 'posts:like-post-view' %}" method='POST'> {% csrf_token %}
+							<input type="hidden" name="post_id" value="{{obj.id}}">
+							<button type="submit" class=" ui primary button"> 
+
+								{% if profile not in obj.liked.all %}
+									<i class=" thumbs up icon"></i> Like - {{obj.num_likes}}
+								{% else %}
+									<i class="thumbs down icon"></i> Unlike - {{obj.num_likes}}
+								{% endif %}
+							 </button>
+						</form>
+					</div>
+					<div>
+						{% if obj.comment_set.all %}
+							{% for c in obj.comment_set.all %}
+								<p>{{c.body}}</p>
+							{% endfor %}
+						{% endif %}
+
+					</div>
+
+					<form action="" method="POST" class="ui form">
+						{% csrf_token %}
+						<input type="hidden" name="post_id" value="{{obj.id}}">
+						{{c_form}}
+						<button class="ui primary button" type="submit" name="submit_c_form"> comment </button>
+
+					</form>
+				</div>
+			{% endfor %}
+		</div>
+		<div class="six wide column">
+			{% if post_added %}
+				<div class="ui green message"> Post added </div>
+			{% endif %}
+			<form action="" method="POST" class="ui form" enctype="multipart/form-data">
+				{% csrf_token %}
+				{{p_form}}
+				<hr>
+				<button type="submit" class="ui button positive" name="submit_p_form">Send Post</button>
+			</form>	
+		</div>
+	</div>
+</div>
+
+{% endblock %}

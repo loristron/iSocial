@@ -1,0 +1,22 @@
+
+		<div class="four wide column">
+			<img class="ui medium rounded image" src="{{object.avatar.url}}">
+			<h1>{{object.user|title}}</h1>
+			<div class="ui vertical menu">
+			  <a class="{% if postnav %} active {% endif %} teal item" href="{% if postnav %}# {% else %} {{object.slug}}/ {% endif %}">
+			    Posts
+			    <div class="ui {% if postnav %} teal left pointing {% endif %} label">{{object.get_posts_no}}</div>
+			  </a>
+			  <a class="item" href="{{object.get_absolute_url}}likes/">
+			    Likes Recieved
+			    <div class="ui label">{{object.get_likes_recieved_no}}</div>
+			  </a>
+			  <a class="item">
+			    Likes Given
+			    <div class="ui label">{{object.get_likes_given_no}}</div>
+			  </a>
+			  <a class="item">
+			    Friends
+			    <div class="ui label">{{object.get_friends_number}}</div>
+			  </a>
+			</div>

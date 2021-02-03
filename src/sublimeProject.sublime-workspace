@@ -1,0 +1,891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"recie",
+				"receiver_invite\t⟠"
+			],
+			[
+				"se",
+				"sender\t⟠"
+			],
+			[
+				"receiv",
+				"receiver_invite\t⟠"
+			],
+			[
+				"send",
+				"sender_invite\t⟠"
+			],
+			[
+				"re",
+				"receiver"
+			],
+			[
+				"cas",
+				"CASCADE(…)\tfunction ⟠"
+			],
+			[
+				"prof",
+				"profiles\tmodule ⟠"
+			],
+			[
+				"get",
+				"get_random_code()\tfunction ⟠"
+			],
+			[
+				"de",
+				"defaultfilters\tmodule ⟠"
+			],
+			[
+				"uu",
+				"uuid5(…)\tfunction ⟠"
+			],
+			[
+				"auto",
+				"auto_now_add=…\tkeyword ⟠"
+			],
+			[
+				"Date",
+				"DateTimeField\ttype ⟠"
+			],
+			[
+				"uSER",
+				"User\ttype ⟠"
+			],
+			[
+				"man",
+				"ManyToManyField\ttype ⟠"
+			],
+			[
+				"T",
+				"TextField\ttype ⟠"
+			],
+			[
+				"con",
+				"conf\tmodule ⟠"
+			],
+			[
+				"djan",
+				"django\tmodule ⟠"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"prod",
+				"product_list_view"
+			],
+			[
+				"produ",
+				"product_detail_view\t⟠"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"De",
+				"DecimalField\ttype ⟠"
+			],
+			[
+				"frm",
+				"formulario\tRawProductForm ⟠"
+			],
+			[
+				"conte",
+				"context\tdict ⟠"
+			],
+			[
+				"Pro",
+				"ProductForm\t⟠"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"contac",
+				"contact_view"
+			],
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"base",
+				"BASE_DIR\tstr ⟠"
+			],
+			[
+				"total",
+				"totalDri"
+			],
+			[
+				"med",
+				"mediaInternet"
+			],
+			[
+				"quar",
+				"quartoLu"
+			],
+			[
+				"qua",
+				"quartoEDRI"
+			],
+			[
+				"medi",
+				"mediaCondominio"
+			],
+			[
+				"resto",
+				"restoMedia"
+			],
+			[
+				"quart",
+				"quartoEDRI"
+			],
+			[
+				"media",
+				"mediaLuz"
+			],
+			[
+				"v",
+				"vInternet"
+			],
+			[
+				"rest",
+				"restoMedia"
+			],
+			[
+				"q",
+				"quartoLoris"
+			],
+			[
+				"tot",
+				"totalLoirs"
+			],
+			[
+				"alu",
+				"aluguelEd"
+			],
+			[
+				"alug",
+				"aluguelDri"
+			],
+			[
+				"est",
+				"estCLoop"
+			],
+			[
+				"s",
+				"sexo"
+			],
+			[
+				"preco",
+				"precoDesconto"
+			],
+			[
+				"valor",
+				"valorDesconto"
+			],
+			[
+				"pre",
+				"precoTotal"
+			],
+			[
+				"quant",
+				"quantidadeCarne"
+			],
+			[
+				"tipo",
+				"tipoCarne"
+			],
+			[
+				"kg",
+				"kgMorango"
+			],
+			[
+				"kgM",
+				"kgMaca"
+			],
+			[
+				"com",
+				"combustivel"
+			],
+			[
+				"as",
+				"Assassino"
+			],
+			[
+				"a",
+				"acompanhado"
+			],
+			[
+				"notas",
+				"notas10"
+			],
+			[
+				"not",
+				"notas50"
+			],
+			[
+				"dezenas",
+				"dezenas"
+			],
+			[
+				"entrada",
+				"entradaB"
+			],
+			[
+				"entra",
+				"entradaA"
+			],
+			[
+				"entr",
+				"entradaC"
+			],
+			[
+				"sala",
+				"salarioLiquido"
+			],
+			[
+				"desc",
+				"descontoIR"
+			],
+			[
+				"des",
+				"descontoIR"
+			],
+			[
+				"salario",
+				"salarioBruto"
+			],
+			[
+				"AUM",
+				"aumento"
+			],
+			[
+				"noov",
+				"novoSalario"
+			],
+			[
+				"novo",
+				"novoSalario"
+			],
+			[
+				"n",
+				"n1"
+			],
+			[
+				"litros",
+				"litrosBarril"
+			],
+			[
+				"S",
+				"SIND"
+			],
+			[
+				"sind",
+				"SIND"
+			],
+			[
+				"horas",
+				"horasMes"
+			],
+			[
+				"peso",
+				"pesoPeixes"
+			],
+			[
+				"H",
+				"H"
+			],
+			[
+				"C",
+				"Celsius"
+			],
+			[
+				"F",
+				"Farenheit"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"A",
+				"ACCESS_SECRET"
+			],
+			[
+				"CON",
+				"CONSUMER_SECRET"
+			],
+			[
+				"CONSU",
+				"CONSUMER_KEY"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text-st",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"box-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"fo",
+				"font-variant\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"dat",
+				"datalist\tTag"
+			],
+			[
+				"nam",
+				"name\tAttr"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"muda",
+				"mudar_estilo"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"ma",
+				"map\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tec",
+				"text-decoration\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"HTML",
+				"HTML_CSS_externo"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"img",
+				"border-image\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "profiles/signals.py",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "profiles/urls.py",
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from django.db import models\nfrom django.contrib.auth.models import User\nfrom django.template.defaultfilters import slugify\n\nfrom .utils import get_random_code\n\n# Create your models here.\n\n#Cada campo representa uma coluna no banco de dados. As linhas serão chamadas de objetos\nclass Profile(models.Model):\n\tfirst_name \t= models.CharField(max_length=200, blank=True)\n\tlast_name\t= models.CharField(max_length=200, blank=True)\n\tuser \t\t= models.OneToOneField(User, on_delete=models.CASCADE) #Cada usuário só poderá ter um perfil, vinculado ao banco de dados\n\tbio\t\t\t= models.TextField(blank=True, default='Ainda não escreveu nada!', max_length=300)\n\temail\t\t= models.EmailField(max_length=200, blank=True)\n\tcountry\t\t= models.CharField(max_length=200, blank=True)\n\tavatar\t\t= models.ImageField(default='avatar.png', upload_to='')\n\t#install pillow\n\t#create media_root\n\t#find avatar.png\n\tfriends\t\t= models.ManyToManyField(User, blank=True, related_name='friends')\n\tslug\t\t= models.SlugField(unique=True, blank=True) #será preenchida com o nome, sobrenome ou user\n\tupdated \t= models.DateTimeField(auto_now=True)\n\tcreated \t= models.DateTimeField(auto_now_add=True)\n\n\tdef __str__(self):\n\t\treturn f\"{self.user.username}\"\n\n\n\tdef save(self, *args, **kwargs):\n\t\t\t#vamos usar uma lógica pra que mesmo se o mesmo nome e sobrenome for usado, ainda\n\t\t\t#vai ser capaz de usar uma slug baseada no nome de usuário. Essa lógica vai estar dentro do arquivo utils.py\n\t\t\t#dava pra ter feito essa lógica com sinais também, pre ou post save\n\t\taux = False\n\t\tif self.first_name and self.last_name:\n\t\t\tto_slug \t= slugify(str(self.first_name) + ' ' + str(self.last_name))\n\t\t\taux\t\t\t= Profile.objects.filter(slug=to_slug).exists()\n\t\t\twhile aux:\n\t\t\t\tto_slug = slugify(to_slug + '-' + str(get_random_code()))\n\t\t\t\taux\t\t= Profile.objects.filter(slug=to_slug).exists()\n\t\telse:\n\t\t\tto_slug\t\t= str(self.user)\n\n\t\tself.slug \t\t= to_slug\n\t\tsuper().save(*args, **kwargs)\n\n\tdef  (self):\n\t\treturn self.friends.all()\n\tdef get_friends_number(self):\n\t\treturn self.friends.all().count()\n\n\nSTATUS_CHOICES = (\n\t('send', 'send'),\n\t('accepted', 'accepted')\n)\n\nclass Relationship(models.Model):\n\tsender\t\t= models.ForeignKey(Profile, on_delete=models.CASCADE, related_name='sender')\n\treceiver\t= models.ForeignKey(Profile, on_delete=models.CASCADE, related_name='receiver')\n\tstatus\t\t= models.CharField(max_length=8, choices=STATUS_CHOICES)\n\tupdated \t= models.DateTimeField(auto_now=True)\n\tcreated \t= models.DateTimeField(auto_now_add=True)\n\n\tdef __str__(self):\n\t\treturn f'{self.sender}-{self.receiver}-{self.status}'",
+			"file": "profiles/models.py",
+			"file_size": 4344,
+			"file_write_time": 132564233197938300,
+			"settings":
+			{
+				"buffer_size": 2554,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/loris/Desktop/Programação/Python/Django/social",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social"
+	],
+	"file_history":
+	[
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/templates/profiles/main_profile.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/templates/main/base.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/templates/main/navbar.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/static_project/style.css",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/templates/main/home.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/static_project/main.js",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social/templates/main/navbar.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social/templates/main/base.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social/settings.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/signals.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/admin.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/social/templates/main/home.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/utils.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/apps.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/profiles/__init__.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/structure.md",
+		"/C/Users/loris/Desktop/Programação/Python/Django/social/src/manage.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/templates/sidebar.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/templates/base.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/templates/animes/animes_detail.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animow/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animow/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/templates/animes/list-inline.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/templates/animes/list.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animes/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/templates/navbar.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/templates/cadastro/login.html",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/forms.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/animow/settings.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/paginas/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/Django/animow_vnv/src/cadastro/templates/cadastro/cadastro.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/testeDjango/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_delete.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_list.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_detail.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/urls.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_create.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/pages/views.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/navbar.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/base.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/templates/products/product_delete",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/forms.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/product/detail.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/Lib/site-packages/pip/_internal/network/session.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/product/detail",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/pages/models.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/footer.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/about.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/home.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/feed.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/contact.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/templates/profile.html",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/testeDjango/settings.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/products/admin.py",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/src/db.sqlite3",
+		"/C/Users/loris/Desktop/Programação/Python/8PythonProjects/ProjetosPython/testeDjango/sublimeTestDjango.sublime-project",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/descrever a foto.txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/memorial descritivo - aperto.txt",
+		"/C/Users/loris/Desktop/Novo Documento de Texto (2).txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/Memorial Descritivo 02 - cigarro.txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/descrição.txt",
+		"/C/Users/loris/Downloads/Happiest.Season.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt",
+		"/C/Users/loris/Desktop/Novo Documento de Texto.txt",
+		"/C/Users/loris/Desktop/Programação/Udemy/Data Science/dados.py",
+		"/C/Users/loris/Desktop/Programação/Udemy/Data Science/grafico_linha.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/distribuiçãoNormalR.R",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/amostraIrisEstratificada.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/amostraSistemática.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/scritpsEstastisticaI/Estatistica I - Python/normal.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/scritpsEstastisticaI/Estatistica I - R/6.5.Distribuição Normal Aula R.R",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/distribuiçãoNormal.py",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Escrita de Roteiro/O MAR.txt",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/descrição Geni e o Zeppelin.txt",
+		"/C/Users/loris/Desktop/1000Corks/sitemap-1.xml/sitemap-1.xml",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/ARENA/Poéticas Módulo 2 - Alice/finalizados/poéticas I/Memorial Descritivo - Internos conflitantes 01.txt",
+		"/C/Users/loris/Desktop/1000Corks/sitemap-1.xml/sitemap-1(1).xml",
+		"/C/Users/loris/Desktop/Programação/Udemy/Data Science/populacao-brasileira.csv",
+		"/C/Users/loris/Desktop/Aprendizado Remoto/Programação/UDEMY/Formação em Cientista de Dados/LISTA DE COMANDOS EM PYTHON.txt",
+		"/C/Users/loris/Desktop/Carta.txt",
+		"/C/Users/loris/Desktop/1000Corks/sitemapasdsadsdadas-1.xml",
+		"/C/Users/loris/Desktop/Programação/Python/4 - Listas/users.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/Raquel2 - Lorena.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/raquel - Lorena.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/texto pra Raquel.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/carta raquel.txt",
+		"/C/Users/loris/Desktop/carta raquel.txt",
+		"/C/Users/loris/Desktop/EAD/ARENA/trocas/texto Edna.txt",
+		"/C/Users/loris/Desktop/Programação/Python/4 - Listas/usuarios2.txt",
+		"/C/Users/loris/Desktop/1000Corks/sitemapa.xml",
+		"/C/Users/loris/Documents/sfsdf.html",
+		"/C/Users/loris/Desktop/1000Corks/downloadexcelinventory.xls",
+		"/C/Users/loris/Desktop/Programação/Python/4 - Listas/usuarios.txt",
+		"/C/Users/loris/Desktop/Programação/Udemy/Data Science/grafico_barras_comparacao.py",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/amostraSistemática.py",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Formação em Cientista de Dados/LISTA DE COMANDOS EM R.txt",
+		"/C/Users/loris/Desktop/Programação/Python/4 - Listas/resultado17.txt",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Formação em Cientista de Dados/ESTATÍSTICA I/scritpsEstastisticaI/Estatistica I - Python/amostragem_simples.py",
+		"/C/Users/loris/Desktop/EAD/licitacoes_gov_2014.csv",
+		"/C/Users/loris/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/h1n1.fasta",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/arquivo.py",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/covid19.fasta",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/reference-NC_045512.fasta",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/covid.txt",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/bateria.html",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/human.fasta",
+		"/C/Users/loris/Desktop/EAD/UDEMY/Visualização de Dados em Python/bacteria.fasta",
+		"/C/Users/loris/Desktop/calcContas.py",
+		"/C/Users/loris/Desktop/1000Corks/PM Jump Error - dev.1000corks.txt",
+		"/C/Users/loris/Desktop/Programação/Python/lista 3/4.py",
+		"/C/Users/loris/Desktop/1000Corks/Novo Documento de Texto.txt",
+		"/C/Users/loris/Desktop/1000Corks/Problem With Pattern Matching from dev.1000corks - clarets_notes.txt",
+		"/C/Users/loris/Desktop/1000Corks/Edit Company Error - dev.1000corks.txt",
+		"/C/Users/loris/Desktop/1000Corks/Cache Error - dev.1000corks.txt",
+		"/C/Users/loris/Desktop/carne",
+		"/C/Users/loris/Desktop/1000Corks/googlesitemap.txt123.html",
+		"/C/Users/loris/Desktop/export.xls",
+		"/C/Users/loris/Desktop/1000Corks/500 error - dev.1000corks.txt"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"obj",
+			"\"\"\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "profiles/signals.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "profiles/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "profiles/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1168,
+								1168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimeProject.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

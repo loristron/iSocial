@@ -1,0 +1,29 @@
+{% extends 'main/base.html' %}
+
+{% block title %} Profile Detail {% endblock title %}
+
+{% block content %}
+<div class="ui grid ">
+	<div class="row">
+		{% include 'profiles/profile-sidebar.html' %}
+
+		{% include 'profiles/friends-button.html' %}
+
+		</div>
+		<div class="twelve wide column">
+			{% if len_posts %}
+				{% for post in posts %}
+					<div class="segment ui fluid">
+						{{post.content}}
+					</div>
+				{% endfor %}
+			{% else %}
+				<h1> No posts yet </h1>
+			{% endif %}
+
+		</div>
+	</div>
+</div>
+
+
+{% endblock content %}

@@ -1,0 +1,19 @@
+{% if object.user not in relation_receiver and object.user not in relation_sender %}	
+	<form action="{% url 'profiles:send-invite' %}" method="POST">
+		{% csrf_token %}
+		<input type="hidden" name="profile_pk" value="{{object.pk}}">
+		<a href="{{request.META.HTTP_REFERER}}"><button type="submit" class="ui positive basic button mb-5 w-big"><i class="plus square icon"></i>Add to friends</button></a>
+	</form>
+{% endif %}
+						
+{% if object.user in relation_receiver and request.user not in object.friends.all %}
+	<button class="ui disabled button mb-5 w-big"><i class="user icon"></i>Waitin for approval </button>
+{% endif %}
+						
+{% if request.user in object.friends.all %}
+    <form action="{% url 'profiles:remove-friend' %}" method="POST">
+    	{% csrf_token %}
+    	<input type="hidden" name="profile_pk" value="{{object.pk}}">
+    	<button type="submit" class="ui negative basic button mb-5 w-big"><i class="minus square object"></i>Remove firend</button>
+    </form>
+{% endif %}

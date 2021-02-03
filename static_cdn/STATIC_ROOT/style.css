@@ -1,0 +1,34 @@
+body {
+	background: #F8F8F8 !important;
+}
+
+.nav {
+	padding: 10px 0 10px, 0 !important;
+	background-color: #7CAFE1 !important;
+}
+
+.mb-7 {
+}
+
+.friends_button {
+	background-color: #32475C !important;
+}
+
+.mb-5 {
+
+	margin-bottom: 5px !important;
+}
+
+.bwhite-lg {
+	background-color: transparent !important;
+
+}
+.bwhite-sm {
+	background-color: transparent !important;
+	width: 10px !important;
+
+}
+
+.comment-box {
+	display: none;
+}
